@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 <img align="right" alt="Coder GIF" height=200 width=250 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-- 🔭 I’m currently working on **Computer Vision & Generative**
+- 🔭 I’m currently working on **Computer Vision & Generative AI**
 
-- 🌱 I’m currently learning about **Large Language Models**
+- 🌱 I’m currently learning about **Large Language Models & Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on **Computer Vision, NLP, Generative AI**
 
@@ -19,7 +19,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
@@ -39,5 +40,4 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdanniemirz&show_icons=true&locale=en&layout=compact" alt="iamdanniemirz" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamdanniemirz&" alt="iamdanniemirz" /></p>
